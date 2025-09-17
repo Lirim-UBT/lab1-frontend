@@ -1,0 +1,12 @@
+Write tasks in Trello 
+
+"[DEV-500] Create side bar for the admin page" - this is a template on how tasks should be written in Trello , start with DEV-500 then 501 etc
+
+Every task should be on its own branch
+
+After you think a task is completed merge the branch with the test branch in this case "main"
+
+Create branches firstly from terminal , make sure you open new branches from main branch
+
+branches name feature/DEV-500
+bugfix/DEV-501 
